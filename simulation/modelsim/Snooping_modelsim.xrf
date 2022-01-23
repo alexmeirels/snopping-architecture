@@ -1,0 +1,8 @@
+vendor_name = ModelSim
+source_file = 1, C:/Users/Alexm/Desktop/Snooping/TestBench.v
+source_file = 1, C:/Users/Alexm/Desktop/Snooping/Snooping.v
+source_file = 1, C:/Users/Alexm/Desktop/Snooping/PCcounter.v
+source_file = 1, C:/Users/Alexm/Desktop/Snooping/MaquinasDeEstados.v
+source_file = 1, C:/Users/Alexm/Desktop/Snooping/db/Snooping.cbx.xml
+design_name = Snooping
+instance = comp, \Clock~I , Clock, Snooping, 1

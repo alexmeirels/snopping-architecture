@@ -1,0 +1,26 @@
+-- begin_signature
+-- TestBench
+-- end_signature
+WIDTH=2;
+DEPTH=15;
+
+ADDRESS_RADIX=UNS;
+DATA_RADIX=BIN;
+
+CONTENT BEGIN
+	14 :	01;
+	13 :	00;
+	12 :	01;
+	11 :	00;
+	10 :	01;
+	9 :	01;
+	8 :	00;
+	7 :	01;
+	6 :	00;
+	5 :	01;
+	4 :	00;
+	3 :	01;
+	2 :	01;
+	1 :	00;
+	0 :	00;
+END;

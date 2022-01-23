@@ -1,7 +1,7 @@
 module MaquinasDeEstados(Clock, WriteRead, state1, state2, bus,acaoProcB,newStateB);
 
 //Entradas:
-//
+////
 	input Clock;
 	input [2:0] state1;
 	input[2:0] state2;	// Estados 1 e 2.
